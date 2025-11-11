@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Humeira
-- 👀 I’m interested in Productivity at work and life in general  
-- 🌱 I’m currently learning JavaScript
+- ℹ️ This was my account when I worked at [expat.com](expat.com). Here's my [main](https://github.com/humeira)
 
 <!---
 WhimsyCodeWizard/WhimsyCodeWizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
